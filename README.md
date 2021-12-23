@@ -13,4 +13,4 @@ To test the project, make a make. Then, you can test the project using an execut
 ./philosophers number_philosopher time_to_die time_to_eat time_to_sleep [number_of_time_each_philosophers_must_eat] arguments in square brackets are optional.
 Example: ./philo_one 4 500 200 200
 
-Submitted in december 2020
+Submitted in august 2021
