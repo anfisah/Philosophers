@@ -1,6 +1,6 @@
 # Philosophers
 
-Philosophers an individual project at 42.
+Philosophers is an individual project at 42.
 
 Introduction to the basics of process threading, mutexes, and how work on the shared memory.
 
