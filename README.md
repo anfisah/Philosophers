@@ -12,6 +12,6 @@ To test the project, make a ```make```. Then, you can test the project using an 
 
 Example: ```./philo_one 4 500 200 200``` 
 
-:page_with_curl: You will find the subject of the project at the root of the repository.
+:page_with_curl: You will find the [subject](https://github.com/anfisah/philosophers/blob/main/en.subject.pdf) of the project at the root of the repository.
 
 :calendar: Submitted in august 2021
